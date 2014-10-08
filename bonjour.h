@@ -3,7 +3,11 @@
 
 
 class Affiche {
-
-}
+   int a;
+   public:
+   void saisir();
+   void affich();
+  
+  };
 
 #endif
